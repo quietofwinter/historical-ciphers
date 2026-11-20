@@ -4,12 +4,12 @@ import os, re, collections
 HERE = os.path.dirname(os.path.abspath(__file__)); UP = os.path.join(HERE, "..")
 KEY = {1:'g',2:'g',3:'h',4:'h',5:'i',6:'i',7:'i',8:'i',10:'a',11:'a',12:'a',13:'a',14:'b',15:'b',16:'c',17:'c',18:'d',19:'d',
        20:'e',21:'e',22:'e',23:'e',24:'f',25:'f',26:'k',27:'l',28:'l',29:'m',30:'m',31:'n',32:'n',33:'o',34:'o',35:'o',36:'o',
-       37:'p',38:'p',41:'r',42:'r',43:'s',44:'s',45:'t',46:'t',47:'u',48:'u',49:'u',50:'u',51:'w',52:'w',55:'y',56:'y',73:'e',77:'e'}
+       37:'p',38:'p',41:'r',42:'r',43:'s',44:'s',45:'t',46:'t',47:'u',48:'u',49:'u',50:'u',51:'w',52:'w',55:'y',56:'y',77:'e'}
 # reading for each cipher passage, in order; "t" = tentative or one figure differs from the key
 READ = [("d","notes"),("t","receave"),("d","order"),("t","parliament"),("t","proffe[r] secret"),("t","prejudicial"),("d","treaty"),
  ("d","brybed"),("t","charitable"),("t","shedding"),("d","bloud"),("d","my lady mother"),("d","sisters"),("d","Bromley"),("d","Sackvile"),
  ("d","the seas"),("t","the Hague"),("d","heere"),("d","suspect"),("d","get over"),("d","credit"),("d","states affaires"),
- ("d","bookes written"),("t","commission"),("d","nature"),("d","allouwance"),("d","come over"),("d","get off"),("d","engaged"),
+ ("d","bookes written"),("d","commission"),("d","nature"),("d","allouwance"),("d","come over"),("d","get off"),("d","engaged"),
  ("d","venters"),("d","over"),("t","ripe"),("d","leave"),("d","lurch"),("d","wherewith"),("d","breathe"),("d","agitate"),
  ("d","accounte"),("d","dangerous"),("d","originall coppyes"),("d","bonds"),("d","faith"),("d","credit"),("d","safe conducte")]
 NOT_CIPHER = {"229. 115.", "124", "109", "19."}   # code names for persons, and a date
@@ -51,7 +51,7 @@ def main():
     for n, v in sorted(KEY.items()): by[v].append(n)
     for v in sorted(by, key=lambda v: min(by[v]) if v not in "ghi" or min(by[v]) >= 10 else 0):
         rows.append("| %s | %s | %d |" % (v, ", ".join(map(str, by[v])), sum(c[n] for n in by[v])))
-    rows += ["", "Figures 1-8 are extra homophones for g, h and i, placed before the main alphabet; 73 and 77 occur once each, for e.",
+    rows += ["", "Figures 1-8 are extra homophones for g, h and i, placed before the main alphabet; 77 occurs once, for e.",
              "Figures 9, 39, 40, 53, 54 and 57-72 do not occur in this letter."]
     open(os.path.join(UP, "key.md"), "w", encoding="utf-8").write("\n".join(rows) + "\n")
     print(len(runs), "passages,", len(allg), "figures,", len(c), "distinct; differs from plain key in:", bad)

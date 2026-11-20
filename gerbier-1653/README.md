@@ -3,7 +3,7 @@
 Jason Benham, November 20, 2026. Deciphered with the assistance of Claude (Anthropic).
 
 **Status: first known solution.** All 44 cipher passages read. The key is a letter cipher with the alphabet in order;
-nine words contain a figure or two that the clerk got wrong, and these are marked.
+eight words contain a figure or two that the clerk got wrong, and these are marked.
 
 ## The letter
 
@@ -47,6 +47,14 @@ George had been sent to London to put a proposal of his father's to some people 
 The cipher hides the political and financial core of the letter: an attempt, during the war, to interest people in London
 in a proposal tied to the peace treaty, and the conditions on which Balthazar Gerbier might safely return.
 
+## The printed pages (1742)
+
+![Birch vol. 1, p. 352](sources/thurloe-v1-p352.png)
+
+![Birch vol. 1, p. 353](sources/thurloe-v1-p353.png)
+
+![Birch vol. 1, p. 354](sources/thurloe-v1-p354.png)
+
 ## The decipherment
 
 ![The letter deciphered](images/letter-deciphered.png)
@@ -63,7 +71,7 @@ One or more figures for each letter, with the alphabet in order (full table in [
 | 1 2 | 3 4 | 5–8 | 10–13 | 14 15 | 16 17 | 18 19 | 20–23 | 24 25 | 26 | 27 28 | 29 30 | 31 32 | 33–36 | 37 38 | 41 42 | 43 44 | 45 46 | 47–50 | 51 52 | 55 56 |
 
 The main alphabet runs a to y from 10 to 56, more figures for the common letters; the figures below 10 are extra
-homophones for g, h and i. Figures 73 and 77 occur once each and stand for e.
+homophones for g, h and i. Figure 77 occurs once and stands for e.
 
 ## How it was found, and why it can be trusted
 
@@ -81,7 +89,7 @@ homophones for g, h and i. Figures 73 and 77 occur once each and stand for e.
 
 ## Slips
 
-Nine readings contain a figure that does not match the key, or a letter too many or too few. All read naturally once the
+Eight readings contain a figure that does not match the key, or a letter too many or too few. All read naturally once the
 slip is allowed for, and are marked orange:
 
 | Reading | As written | Slip |
@@ -93,7 +101,6 @@ slip is allowed for, and are marked orange:
 | charitable | c h a h g i t a b l e | *h g* for *r* |
 | shedding | s h e d d d i n g | extra *d* |
 | the Hague | t h e h g e | *a* missing |
-| commission | c o m m i s s i o m | *m* for *n* |
 | ripe | r i m e | *m* for *p* |
 
 Two more are spelling, not slips: *gettouer*, *gettoff* ("gett over", "gett off").
@@ -110,7 +117,8 @@ been checked.
 
 ## Files
 
-- `raw_birch.txt`: the letter as Birch printed it, with the cipher in figures.
+- `raw_birch.txt`: the letter as Birch printed it, with the cipher in figures (text from British History Online, figures checked
+  against the page images).
 - `letter-annotated.txt`: the same, with each cipher passage replaced by its reading.
 - `ciphertext.txt`: the 44 passages as figures. `key.md`: the key.
 - `images/letter-deciphered.png`: the letter with the deciphered words in colour.
