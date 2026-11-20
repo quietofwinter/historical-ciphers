@@ -1,8 +1,8 @@
-# Vande Perre to de Bruyne, 3 October 1653 (deciphered)
+# Vande Perre to de Bruyne, 3 October 1653 (first known solution)
 
 Jason Benham, November 19, 2026. Deciphered with the assistance of Claude (Anthropic).
 
-**Status: deciphered.** All three cipher passages read; three words each contain one figure that differs from the key.
+**Status: first known solution.** The cipher has been broken and the key recovered; all three cipher passages read; three words each contain one figure that differs from the key.
 
 ## The letter
 

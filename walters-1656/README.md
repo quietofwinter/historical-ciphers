@@ -1,8 +1,8 @@
-# The John Walters cipher letters, August 1656 (partial decipherment)
+# The John Walters cipher letters, August 1656 (first known partial solution)
 
 Jason Benham, November 19, 2026. Deciphered with the assistance of Claude (Anthropic).
 
-**Status: partially deciphered.** Most of the cipher text now reads; three names, two verbs and five code numbers are still open.
+**Status: first known partial solution.** Most of the cipher text now reads; three names, two verbs and five code numbers are still open.
 
 ## The letters
 
