@@ -34,8 +34,9 @@ Page scans from the Internet Archive copy of Birch, vol. 5. These are the source
 
 ## The full letters, deciphered
 
-Both letters written out in full. Text in **blue** is newly deciphered, **orange** is a tentative reading, and **grey
-[numbers]** are still unread. The small numbers under each coloured word are the cipher as printed in 1742.
+Both letters written out in full. Text in **blue** is deciphered with numbers that are confirmed in other words, **orange** is
+a tentative reading (it relies on numbers that occur only once, or on an assumed misprint), and **grey [numbers]** are still
+unread. The small numbers under each coloured word are the cipher as printed in 1742.
 
 ![Letter 1 deciphered](images/letter1-deciphered.png)
 
@@ -110,8 +111,8 @@ Spelling is Walters's own. **Bold** = deciphered; [brackets] = still open.
 
 | Letter | Cipher | Reading | Confidence |
 |---|---|---|---|
-| 1 | 7 74 30 54 29 50 | a re-ge-me-n-t = a regement | high |
-| 1 | 39 46 48 | ho-r-s = hors | high |
+| 1 | 7 74 30 54 29 50 | a re-ge-me-n-t = a regement (four of the numbers occur only here; supported by "a regement of horse" in clear earlier in the letter) | medium |
+| 1 | 39 46 48 | ho-r-s = hors (39 occurs only here) | medium |
 | 1 | 43 27 11 38 40 50 14 | p-l-e-m-o-t-h = Plemoth (43 may be f: Flemoth/Falmouth) | medium |
 | 1 | 17 38 63 60 11 48 | co-m-pa-ni-e-s = companies, reading 17 as a slip for 16 (17 is clearly printed in 1742) | medium |
 | 1 | 243 226 | [code] men | partial |
@@ -122,16 +123,16 @@ Spelling is Walters's own. **Bold** = deciphered; [brackets] = still open.
 | 1 | 33 39 13 / 33 37 48 11 | two verbs | open |
 | 2 | 58 89 | i-land = Iland | medium |
 | 2 | 90 50 48 46 | ma-t-s-r = mastr, assuming two numbers swapped | low |
-| 2 | 78 49 / 18 49 | s-ail = sail | high |
+| 2 | 78 49 / 18 49 | s-ail = sail (49 occurs only in this word; "ships" would mean the same) | medium |
 | 2 | 13 27 11 48 | ca-l-e-s = Cales | medium |
 | 2 | 50 14 11 18 50 46 17 50 48 | t-h-e s-t-r-a-t-s = the Strats | high |
 | 2 | 210 211, 212, 242 | code words | open |
-| 2 | 26 46 50 58 78 49 | fo-r-t-i s-ail = forti sail | high |
+| 2 | 26 46 50 58 78 49 | fo-r-t-i s-ail = forti sail | medium |
 | 2 | 48 54 81 39 | s-me-?-ho (a name; occurs twice) | open |
 | 2 | 79 17 226 | se-a-men = seamen | high |
 | 2 | 35 38 | hi-m = him | high |
 | 2 | 16 52 29 79 27 | co-w-n-se-l = Cownsel | high |
-| 2 | 75 50 19 14 | ri-t-c-h = Ritch | high |
+| 2 | 75 50 19 14 | ri-t-c-h = Ritch (75 and 19 occur only here) | medium |
 | 2 | 16 29 25 59 11 10 | co-n-f-in-e-d = confined | high |
 | 2 | 52 15 48 | w-u-s (a name) | open |
 | 2 | 50 40 38 | t-o-m = Tom | medium |
