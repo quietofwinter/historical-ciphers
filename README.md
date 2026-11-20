@@ -1,6 +1,6 @@
 # Historical ciphers
 
-Decipherments of historical cipher letters, by Jason Benham.
+Decipherments of historical cipher letters, by Jason Benham, with the assistance of Claude (Anthropic).
 
 | Folder | Cipher | Status |
 |---|---|---|

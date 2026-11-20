@@ -1,6 +1,6 @@
 # The John Walters cipher letters, August 1656 (partial decipherment)
 
-Jason Benham, November 19, 2026.
+Jason Benham, November 19, 2026. Deciphered with the assistance of Claude (Anthropic).
 
 **Status: partially deciphered.** Most of the cipher text now reads; three names, two verbs and five code numbers are still open.
 
