@@ -72,11 +72,15 @@ def render(title, paragraphs, path):
     if ref:
         d.text((MARGIN, MARGIN + 42), "(" + ref, font=f_leg, fill=COL["u"])
     y, lx = MARGIN + 82, MARGIN
-    for k, lab in (("d", "deciphered"), ("t", "tentative reading"), ("u", "[still unread]")):
+    marked = any("{" in par for par in paragraphs)
+    for k, lab in ([] if not marked else  (("d", "deciphered"), ("t", "tentative reading"), ("u", "[still unread]"))):
         d.rectangle((lx, y + 5, lx + 18, y + 23), fill=COL[k]); lx += 26
         d.text((lx, y), lab, font=f_leg, fill=COL["p"]); lx += d.textlength(lab, font=f_leg) + 34
-    d.text((lx, y), "small numbers = the cipher as printed", font=f_leg, fill=COL["u"])
-    y += 60
+    if marked:
+        d.text((lx, y), "small numbers = the cipher as printed", font=f_leg, fill=COL["u"])
+        y += 60
+    else:
+        y += 10
     for ln in lines:
         if ln is None:
             y += 14; continue
