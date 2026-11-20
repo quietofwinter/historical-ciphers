@@ -1,0 +1,9 @@
+# Two further letters of Vande Perre to de Bruyne in the same cipher (Birch, Thurloe State Papers vol. 1, pp. 431 and 575-576).
+# Only the paragraphs containing cipher are given. Markup as in letter-annotated.txt.
+
+=== Vande Perre to de Bruyne, 29 August 1653 [N. S.]. (Birch vol. 1, p. 431; MS vol. v, p. 226)
+... Furthermore you will receive by a third hand a character to open a lockt chest {t|ick segghe een caffer|12 5 13 26 7 9 9 10 7 77 17 5 3 8 8 7 24} and that, which may make for my security. I desire you would keep it safe.
+English: "I mean, a coffer."
+=== Vande Perre to de Bruyne, London, 14/4 November 1653. (Birch vol. 1, pp. 575-576; MS vol. viii, p. 50)
+... It may be it is by reason of the new council, that hath been chosen this week, and yesterday the new members sat in the council, and are to sit for six months. The said change is {d|ons tot voordeel gerekent.|21 17 26 27 21 27 28 21 21 24 6 7 7 14 9 7 24 7 13 7 17 27}
+English: "reckoned to our advantage."

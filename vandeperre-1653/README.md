@@ -79,3 +79,25 @@ Paolo Rosson found the plaintext of the Beverning–Vande Perre letter to Boreel
 - `images/`: the letter and translation drawn with the deciphered text in colour.
 - `sources/`: the printed page (Birch vol. 1, p. 500).
 - `scripts/solve_mono.py`: the substitution solver; `scripts/render_letters.py`: draws the images.
+
+## Two more letters in the same cipher
+
+A search of all seven volumes of Birch's Thurloe papers found further letters from Vande Perre to de Bruyne with passages
+in figures. Two of them read with the key above and have not, as far as is known, been read before. (A third, of 10 October
+1653, pp. 522–523, is left out: Birch printed the English decipherer's glosses over its figures, so it was read at the time.)
+
+**14/4 November 1653** (Birch vol. 1, pp. 575–576; MS vol. viii, p. 50). Writing about the new Council of State:
+"The said change is *ons tot voordeel gerekent*", "reckoned to our advantage". All 22 figures fit the key.
+
+![Vande Perre to de Bruyne, 14/4 November 1653](images/other-14nov1653.png)
+
+**29 August 1653** (Birch vol. 1, p. 431; MS vol. v, p. 226). "Furthermore you will receive by a third hand a character to
+open a lockt chest *ick segghe een caffer*": "I mean, a coffer". The letters fit the key, with two new values: 8 = *f*,
+which falls between *e* (7) and *g* (9) as the alphabetical order predicts, and 77 = *ee*, like 57 in the main letter.
+Tentative, because *caffer* is an unusual spelling of *koffer*.
+
+![Vande Perre to de Bruyne, 29 August 1653](images/other-29aug1653.png)
+
+The printed pages: [p. 431](sources/thurloe-v1-p431-vandeperre-29aug1653.png),
+[p. 575](sources/thurloe-v1-p575-vandeperre-14nov1653.png), [p. 576](sources/thurloe-v1-p576-vandeperre-14nov1653.png).
+The passages are in `other-letters-annotated.txt`.
