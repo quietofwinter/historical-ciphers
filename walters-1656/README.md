@@ -61,6 +61,10 @@ decipherment has been found.
 The numbers below 100 stand for single letters **and** consonant–vowel syllables (a small syllabary), which is why few numbers
 repeat. Numbers above 200 are code words for names or terms.
 
+Some letters also have more than one number (homophones), a standard way of flattening letter frequencies. For example, *s* can
+be written 18, 48 or 78: "sail" appears as `78 49` and again as `18 49` in the same letter, and 18 = s is independently
+confirmed in "the Strats" (`50 14 11 18 50 46 17 50 48`).
+
 The key observation: earlier in the first letter, in clear, Walters writes "a regement of horse". The first cipher group,
 `7 74 30 54 29 50 of 39 46 48`, reads *a-re-ge-me-n-t of ho-r-s*, one value per number, and those values then produce real
 words in the other groups.
