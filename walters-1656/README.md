@@ -148,8 +148,8 @@ Spelling is Walters's own. **Bold** = deciphered; [brackets] = still open.
 
 ## Open questions and next steps
 
-1. **The manuscript.** Underdown also cites Rawl. MS A 41, pp. 498 and 556, possibly two further letters in this cipher. Scans
-   of pp. 498, 556, 642 and 842 would show whether the two assumed slips are printing errors and might supply more text.
+1. **The manuscript.** Underdown also cites Rawl. MS A 41, pp. 498 and 536, possibly two further letters in this cipher. Scans
+   of pp. 498, 536, 642 and 842 would show whether the two assumed slips are printing errors and might supply more text.
 2. The three names, the two verbs and the code words 210, 211, 212, 242, 243.
 
 ## Files

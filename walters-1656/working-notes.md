@@ -75,7 +75,7 @@ confined. My friend's name is Mr. [W-u-s?] ... Tom is strictly looked to; Thurlo
   letter from the King to Sir Henry Slingsby after letting Thurloe's officer copy it; went to Antwerp with messages for exiles;
   wrote a full account to Thurloe. "Thurloe's employment of Walters evidently came to an end in August 1656."
 - n.30: "There are some obscure letters from Walters, under the pseudonym 'Weddall,' in TSP, 5, 337, 364-65, and Rawl. MS A 41,
-  pp. 498, 556." -> Underdown did not read them. Rawl. A 41 = Thurloe vol. xli. The pp. 498/556 may be two FURTHER letters
+  pp. 498, 536." -> Underdown did not read them. Rawl. A 41 = Thurloe vol. xli. The pp. 498/536 may be two FURTHER letters
   (TSP prints xli pp. 642 and 842) or the same two under another pagination - to check at the Bodleian.
 - p.319: of the paid spies only Priestman and John Walters were never unmasked.
 - App. F "Cipher with John Cooper" (Cl. MS 94 fol. 13): jargon names incl. "Thompson, Mr = James [John?] Walters";
