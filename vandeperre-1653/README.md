@@ -16,6 +16,10 @@ Satoshi Tomokiyo's Cryptiana lists it as undeciphered: its cipher "appears to be
 undeciphered" ([Table Switching in Dutch Diplomatic Ciphers](https://cryptiana.web.fc2.com/code/dutch1653.htm), section
 "Vande Perre and de Bruyne, pensionary of Zeeland").
 
+## The printed page (1742)
+
+![Birch vol. 1, p. 500](sources/thurloe-v1-p500-vandeperre-to-debruyne.png)
+
 ## The decipherment
 
 ![The letter deciphered](images/letter-deciphered.png)
@@ -73,4 +77,5 @@ Paolo Rosson found the plaintext of the Beverning–Vande Perre letter to Boreel
 - `ciphertext.txt`: the three passages as figures.
 - `letter-annotated.txt`: the full letter, from Birch, with each cipher word marked.
 - `images/`: the letter and translation drawn with the deciphered text in colour.
+- `sources/`: the printed page (Birch vol. 1, p. 500).
 - `scripts/solve_mono.py`: the substitution solver; `scripts/render_letters.py`: draws the images.
