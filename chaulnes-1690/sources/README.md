@@ -1,7 +1,7 @@
 # Sources
 
-The letter is in private hands. The photographs belong to the dealer and to the blog that published them, so they are linked
-here and not copied into this repository.
+The letter is in private hands. Photographs of the five pages are in `photos/` (full size) and `photos/thumbs/`; they were
+published by the dealer and by Klaus Schmeh, credited below.
 
 | What | Where |
 |---|---|

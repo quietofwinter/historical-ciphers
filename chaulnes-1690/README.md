@@ -148,12 +148,27 @@ despatches of June and July 1690 from the French foreign ministry archives (Corr
 not this letter. A plain-text draft of the letter may survive in those volumes. It has not been seen; if it exists it would be
 the definitive check on this reading.
 
+## The original letter
+
+The five pages of the letter, from the photographs published by the dealer and by Klaus Schmeh (see `sources/`). Click a page
+to see it full size. The cipher is on pages 1 to 3; pages 4 and 5 are plain text, ending with the king's signature and
+Colbert de Croissy's countersignature.
+
+<p>
+<a href="sources/photos/page1.jpg"><img src="sources/photos/thumbs/page1.jpg" width="150" alt="Page 1"></a>
+<a href="sources/photos/page2.jpg"><img src="sources/photos/thumbs/page2.jpg" width="150" alt="Page 2"></a>
+<a href="sources/photos/page3.jpg"><img src="sources/photos/thumbs/page3.jpg" width="150" alt="Page 3"></a>
+<a href="sources/photos/page4.jpg"><img src="sources/photos/thumbs/page4.jpg" width="150" alt="Page 4"></a>
+<a href="sources/photos/page5.jpg"><img src="sources/photos/thumbs/page5.jpg" width="150" alt="Page 5"></a>
+</p>
+
 ## Files
 
 - `ciphertext.txt`: the 301 cipher groups in order.
 - `letter-annotated.txt`: the whole letter with each cipher word marked, and the English translation of the whole letter.
 - `key.md`: every number used, its value, where it occurs and how sure it is.
 - `images/`: the letter in French and in English, drawn with the deciphered text in colour.
-- `sources/`: where the photographs and transcriptions are, and the readings corrected from them.
+- `sources/`: the photographs of the five pages, where they and the transcriptions come from, and the readings corrected
+  from them.
 - `scripts/build_entry.py`: the letter word by word with the value of every group; writes the three text files above and
   checks them against each other. `scripts/render_letters.py`: draws the images.
