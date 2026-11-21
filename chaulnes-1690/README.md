@@ -148,6 +148,10 @@ despatches of June and July 1690 from the French foreign ministry archives (Corr
 not this letter. A plain-text draft of the letter may survive in those volumes. It has not been seen; if it exists it would be
 the definitive check on this reading.
 
+**Since publication.** Satoshi Tomokiyo has written up the solution on Cryptiana, ["Solution of Louis XIV's Syllabic Cipher to
+Duke of Chaulnes"](https://cryptiana.web.fc2.com/code/louisxiv_chaulnes.htm), with a visualization of the full key. He agrees
+with the reading and notes that x and z are provisional.
+
 ## The original letter
 
 The five pages of the letter, from the photographs published by the dealer and by Klaus Schmeh (see `sources/`). Click a page
