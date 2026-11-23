@@ -16,6 +16,8 @@ in ordinary letters, and the card is signed "H" in ordinary script.
 The card is record 55 in HCPortal, an online database of historical cryptograms and cipher keys: https://crypto.hcportal.eu/dashboard/cryptograms/55 (Substitution / Monoalphabetic, private
 collection). The image is on the record's Attachments tab.
 
+![The back of the card (HCPortal record 55)](sources/postcard-back.jpg)
+
 ## What it says
 
 > MUST [DISAPPO]INT YOU AGAIN, FOR I AM LEAVING ON [the] P.M. TRAIN FOR GREYCOURT. WILL WRITE FROM THERE. H.
@@ -78,4 +80,5 @@ HCPortal lists the card as "Not solved", and no reading of it was found elsewher
 - `key.md`: the key, with a description of each symbol.
 - `images/card-deciphered.png`: the card redrawn with the reading.
 - `scripts/render_card.py`: draws the image and counts the letters.
+- `sources/postcard-back.jpg`: the back of the card.
 - `sources/README.md`: where the card can be seen.
