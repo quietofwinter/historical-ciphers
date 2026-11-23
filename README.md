@@ -9,3 +9,4 @@ Decipherments of historical cipher letters, by Jason Benham, with the assistance
 | [chaulnes-1690](chaulnes-1690/) | Louis XIV to the duc de Chaulnes, ambassador in Rome, 10 July 1690 | First known solution |
 | [gerbier-1653](gerbier-1653/) | George Gerbier to his father Sir Balthazar Gerbier, London, 15/25 July 1653 | First known solution |
 | [pinebush-1908](pinebush-1908/) | Encrypted postcard from Pine Bush, N.Y., to Miss Florence Mieler, 31 August 1908 (HCPortal record 55) | First known solution |
+| [egremont-1905](egremont-1905/) | Encrypted postcard from Great Barrington, Mass., to Samuel J. Briggs, Canaan, Conn., 12 August 1905 (HCPortal record 1092) | First known solution |
