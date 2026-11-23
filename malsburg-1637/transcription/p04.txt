@@ -1,0 +1,6 @@
+# Page 04: letter page (place/date not read; "Copia"? note in left margin, "1637" at top left); cipher block of 5 lines in lower half, preceded by plaintext. | = plaintext interruption. Uncertain: bold sign before first 76 (read as end of plaintext "Martz"), symbol after 99.58 (Q?), curved sign before 84 in line 3 (C?)
+| ... ich habe ihm zum 6? Martz | 76.Y.57.122.58.42?.76.25.79.13
+73.15.60.11.93.44.S.86.129.j.30.G.10.16.83.62.22.29.84.21.55.99.41.49.63.48.77.36.O.39
+76.61.65.46.84.97.13.84.78.76.C?.84.36.26.52.42.95.94.120.18.84.54.79.31.46.16.74.24.49.30
+99.58.Q?.24.35.65.21.49.25.57.39.22.Z.Y.83.36.63.27.16.30.37.70.10.61.97.71.44.43.72.55
+L.27.66.84.43.48.46.55.44.38.92.61.63.31.36.A.39.H.61?.91.G.Y.83.55.63.46.61.30 | seint | Ich aber ... (plaintext continues)

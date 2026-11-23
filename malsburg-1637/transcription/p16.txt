@@ -1,0 +1,12 @@
+# Page 16: continuation of the newsletter "Extract" from p15 (German, with some Dutch). Two section headers with cipher + dates: "TRI.F.13.123. 5 April / 26 Mart. 1637" and "21.73.B.24.35.156. 17/27 Martij 1637". Lower half of the page is blank apart from mirror-image bleed-through (not transcribed). | = plaintext.
+| Da aber gleich die alliance nicht geschlossen wirdt, hat gleichwohl | 27.48.30.19.21.24.30.86?.56.11.26.27
+16.63.j.T.48.63.40.64.32.69.13.12.93.22.11.30.83.13.11.N | mit | GG | AA | oder | KK
+| In Engelland ... Compagnie nach den Indien ... König die Gerechtigkeit der Admiralitet ... Metter tijt compt Herman int Wambas en de broeck, staet te hopen dat mettertijt ook sal volgen; das pfälzische manifest ... wirdt bald heraus kommen; |
+TRI.F.13.123 | 5 April / 26 Mart. 1637 |
+| Sonsten stehen die handlungen mit Schweden, Frankreich und Engelland | #?.22.73.D.13.48.21.30.27
+24?.63.51.79.15 | gehen | 77.61.15.90.70.57.48.46.11.83.29.16.24.42.10 | mit | LL | habe ich aus bewegstem(?) |
+| sache gesandt | 11.O.28.H.16.13.24.57.77.89.31.Z | anhalten |
+| haben daß durch Ostfriesland oder ... sagt man ... ; es wirdt berichtet, das la Valette mit einem Heer die Mosel herab kommt und 20000 man in Italien geschickt werden; ... Frankreich und Engelland ... Holland ... Schweden ... St. Chaumont ... ob Frankreich offenbar feindt sein wollte mit dem Kaiser; Frankreich will den König in Ungarn nicht kennen als Römischen König |
+21.73.B.24.35.156 | 17/27 Martij 1637 |
+| Zu Paris hat man mit Abfertigung Herzog Bernhards von Sachsen und la Valette zu viel zu thun ... der Herzog von Rohan hat eine gute victori erlangen ... Obrister Rosa hat vor wenig tagen ein Gallasisch Regiment geschlagen | (no further cipher)
+# Notes: line 1 "86?" written "8b"/"8δ" (86, possibly 83). Line 5: "#?" = a crossed long-s/"f"-like sign before 22 (may be the # symbol or just a plaintext flourish ending "Engelland"); "13.48" written "i348" without dot. Line 6: first group "24" has a stroke through/under it (possibly struck). Header 1: first sign is a large triangle (TRI), then F, 13, 123; date written as fraction 5 April over 26 Mart. Header 2: "35" and "156" have no dot between ("35 156"), read as separate groups 35, 156; date fraction 17 over 27 Martij.

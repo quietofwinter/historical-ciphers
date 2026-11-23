@@ -1,0 +1,23 @@
+# Page 15 (fol. 21): top = French letter "Hault et Puissant Seigneur / Monseigneur", dated "Zirc(?)ea 3e d'Avril 1637", signed "Treshumble, tresobeissant et tres fidel serviteur" with cipher signature "232"; bottom = German "Extract" of newsletters (header with cipher, "vom 16/26 Mart. 1637"). | = plaintext. Struck-through groups noted with "?" and in notes below. French text above line 1 has no cipher (Gallas retreat from France, marriage of Monsieur, Brabant correspondence ...).
+# --- French letter ---
+| ... estant confirmé grandement en mon opinion par la lettre | 46.79.31.97.16.39.42.76.39.W.28.46.84?.71.97.48.20.80.65.87.35.30.67.11.63.C?.97.49?.34.71.66.48.Z.39.99.73.31.40.25.16.68
+67.79.15.62.17.88.84.46.79.58.93.38.80.14.99.70.19.93.81.36.79 | Il me faict l'honneur de tenir estroicte correspondence avec moy, aussy ay-je adressé toutes mes lettres |
+39.42.73.31.68.77.84.83.29.49.99.55.15.73.22.32.30.84.13 | Laissant tousjours mes ... que je suis audict |
+| que je suis audict | 39.R.91.55.W.62.27.Y.30 | a cachet volant afin que | 78.49.27.36.38.26.68.61.22.43?.13.H | soit informée entierement de ce qui passe icy, |
+| Il est fort content que je l'ay dy dommé(?) adressé | S.27.36.38.94.28?.Z?.76.70.P?.39.67.79.71.25 | et honnore sa personne selon que ses dignes qualitez le meritent aussy. |
+| Monseigneur de V.re Alt.ze Treshumble, tresobeissant et tres fidel serviteur | 232
+# --- Extract (German) ---
+| Extract | 70.56.10.28.P.39.27.91.79.24.16.30 | schreiben |
+| aus | 115?.S.13.15.35.22.48.63 | vom 16/26 Mart. 1637 |
+| In Frankreich ... Herzog von Parma ... neutralitet ... Medina Vicerey ... Laindnetta(?) ... Parma ... Piacenza ... officieren in guarnison ... der Herr Landgraf ... meritiret ... encouragiren ... es ist allzeit besser etwas gethan und dadurch seine gewogenheit zu bezeugen |
+248 | solte billich das | 56.G.22.O.16.26.21.24.22 | weil | 129.27.79.30.12.50.70.15.90.32.16.65.22.48.N.Z | Und also |
+| durch denselben directè als etwas solte ihm können, dahin das | OO | am meisten geneigt, es |
+| ist aber vor erst das hier | 22.11.D.26.24.69.16.15.13.48.19.K.97.77.90.58.21.35.B.63 | als | 70.N?.G.44.52.64.37.70.W.16
+65.47.22.26.79.30.57.10.16.15.Y.94.24.35.42.155.13.48.15.30?.Z | gleichwohl hält | 118.13.16.22.54.48.78.63.24.B | bis |
+| Sicherheit vom Schluss mit Frankreich kömbt, immittelst überlegt man wie | 188 | Und | AA | contentement zu geben |
+| Und wohin | 12.30.N.22.26.90.30.73.91.48.25.60 | zu sondern(?), ob sich unter | XX | oder | SQ | nach | GG | schaint(?) |
+| abzusehen, doch ist gut der apparentz das | 155 | mit hülff der | CC | solle abnehmen | 129.28.30.57.16.48.90.24
+64.22.26.16.30.21.70.15.16.44 | Und damit einigt(?) explacit nach | 12.70.15.90 | zu ihm; das ... |
+| ... hence(?) geschlossen wirdt | 133.16.22.26?.15.11.?.10.30.48.D.79.63 | müssen, | 155 | soll vermög der selben ... |
+69.42.28.12.30.57.66.26 | ori(?) | X.69.B.90.126.O.93.P | Und das denselben seine Commission ... |
+# Notes: French l.1 "42.76": a stroke runs through "42.7" (strike or flourish from line above); "84?" also crossed by a stroke; "31.97" written "3i97" without a visible dot; "C?" = a C with a dot inside (could be Q); "49?.34" = "49" and "34" run together. French l.5: "28?" struck through, "Z?" (or E) with stroke, "P?" crossed out -- these three may be deletions. Extract l.8: after "70.15" a struck-through "26" (omitted). Extract l.9: "?" = a lone b-like sign with tilde between 11 and 10; "22.26?" may be "2.26". Extract l.10: "ori" after 66.26 is unclear (word or "0.11"?). Header: first group after "aus" read 115 (written "ii5").
