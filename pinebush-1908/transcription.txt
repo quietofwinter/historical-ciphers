@@ -1,0 +1,15 @@
+# HCPortal record 55: encrypted postcard, Pine Bush, N.Y., 31 August 1908, to Miss Florence Mieler, Crawford, N.Y.
+# One line per line of the card. Each cipher symbol is written as the letter it stands for (see key.md for the shapes).
+# Commas are on the card (the writer put one after each word). "P.M." is written in clear on the card.
+# [ ] = covered by a postmark, reconstructed.   ? = not read.
+#
+# line 0  ? H.                          (greeting, not read at this resolution)
+# line 1  M U S T , [D I S A P P O]     (second word under a postmark)
+# line 2  I N T , Y O U ,
+# line 3  A G A I N , F O R ,
+# line 4  I , A M , L E A V I N G ,
+# line 5  O N , P.M. T R A I N ,
+# line 6  F O R , G R E Y C O U R T ,
+# line 7  W I L L , W R I T E
+# line 8  F R O M , T H E R E .  H      (signature "H" in ordinary script)
+MUST [DISAPPO]INT YOU AGAIN FOR I AM LEAVING ON P.M. TRAIN FOR GREYCOURT WILL WRITE FROM THERE H
